@@ -12,4 +12,4 @@ https://github.com/robyng/my-portfolio-with-react
 
 
 ## Screenshot
-![App Screenshot](.src/assets/images/portfolio-snapshot.png)
+![App Screenshot](./src/assets/images/portfolio-snapshot.png)
