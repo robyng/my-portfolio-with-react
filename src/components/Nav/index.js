@@ -1,21 +1,50 @@
 import React from 'react';
 
-function Nav() {
-    return(
-        <div> 
-            <nav>
-            <h1>Robyn Graham Portfolio</h1>
-        
-            <a href="./">Home</a>
-            <a href="#about">About Me</a>
-            <a href="#portfolio">Portfolio</a>
-            <a href="#contact">Get in Touch</a>
-            <a href="#resume">Resume</a>
+function Nav(props) {
+    const {
+        pages = [],
+        currentPage,
+        setCurrentPage
+    } = props;
+
+    return (
+<nav>
+        <ul className="flex-row">
+            {pages.map((page) => (
+                <li
+                    className={`mx-1 btn ${currentPage === page && 'text-danger'}`}
+                    key={page} >
+                    <span
+                        onClick={() => {
+                            setCurrentPage(page);
+                        }}
+                    >
+                        {page}
+                    </span>
+
+                </li>
+            ))}
+        </ul>
         </nav>
-        </div>
+
+
+
     )
 }
 
 export default Nav;
 
 
+
+/* <div>
+<h1>Robyn Graham Portfolio</h1>
+
+<nav>
+   
+ <a href="#about navActive">About Me</a>
+<a href="#portfolio">Portfolio</a>
+ <a href="#contact">Contact</a>
+ <a href="#resume">Resume</a>
+
+</nav>
+</div> */

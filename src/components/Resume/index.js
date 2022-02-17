@@ -1,12 +1,11 @@
 import React from 'react';
 
-function Header(props) {
+function Resume() {
     return(
         <section className="d-flex justify-content-between">
-           <h1>Robyn's Portfolio</h1>
-           {props.children}
+          <h3>My Resume</h3>
         </section>
     )
 }
 
-export default Header;
+export default Resume;
