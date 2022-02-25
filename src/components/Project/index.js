@@ -8,10 +8,10 @@ function Project(props) {
 
                     <div className="col-6">
                         <h3>{project.title}</h3>
-                        <img src={project.image} alt="my project1" width="300px" />
                         <div>{project.description}</div>
-                        <a href={project.repo} target="_blank" rel="noreferrer"> <button>See Repo</button>    </a>
-                        <a href={project.deployed} target="_blank" rel="noreferrer"> <button>See in Action</button>    </a>
+                        <img src={project.image} alt="my project1" width="300px" height="150px" />
+                        <a href={project.repo} target="_blank" rel="noreferrer"> <button className='btn btn-primary'>See Repo</button>    </a>
+                        <a href={project.deployed} target="_blank" rel="noreferrer"> <button className='btn btn-success'>See in Action</button>    </a>
 
                     </div>
 
