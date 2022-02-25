@@ -50,6 +50,68 @@ p {
   align-content: center;
 }
 
+/* My Work Section */
+
+.work-box  {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.work-box a {
+  text-decoration: none;
+  color: black;
+}
+.work-box h3 {
+  padding: 20px;
+}
+
+.work-box img  {
+  width: 100%;
+  height:480px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.work-box img:hover {
+  opacity: .5;
+}
+
+.work-box a:hover {
+  color: rgb(87, 63, 175);
+}
+
+.project {
+  padding: 10px 10px 40px 10px;
+  background: white;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.sub-projects {
+  display: flex;
+}
+
+.sub-projects .project {
+  width: 50%;
+
+}
+
+.sub-projects img {
+  height: auto;
+
+}
+
+.title {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 32px;
+  margin: 10px 0;
+}
+
+.center {
+  text-align: center;
+}
 
 
 /* styles for tablets */

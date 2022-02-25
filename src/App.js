@@ -6,7 +6,7 @@ import Nav from './components/Nav'
 import Footer from './components/Footer'
 import About from './components/About'
 import Portfolio from './components/Portfolio'
-import Practice from './components/Practice'
+// import Practice from './components/Practice'
 import Contact from './components/Contact'
 import Resume from './components/Resume'
 
@@ -44,7 +44,7 @@ function App() {
 </Header>
 
       {displayPage()}
-      <Practice></Practice>
+      {/* <Practice></Practice> */}
 
 
       <Footer></Footer>
