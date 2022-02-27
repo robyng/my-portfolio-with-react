@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.82c371e6.css",
-    "main.js": "/react-portfolio/static/js/main.0728ebb5.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/holiday-screenshot.png": "/react-portfolio/static/media/holiday-screenshot.ddb8dcb215a9d89534a4.png",
-    "static/media/ticket-desk.png": "/react-portfolio/static/media/ticket-desk.d7af507551952f13fcbb.png",
-    "static/media/emc-pic.png": "/react-portfolio/static/media/emc-pic.782aebad7704d6f4f41f.png",
-    "static/media/jelly-fish-pexels-nidhi-shah-3616252.jpg": "/react-portfolio/static/media/jelly-fish-pexels-nidhi-shah-3616252.62d891d1c04fa69b775e.jpg",
-    "static/media/robyn-profile.jpg": "/react-portfolio/static/media/robyn-profile.6fa73ede71844745a84c.jpg",
-    "static/media/readme-fast.png": "/react-portfolio/static/media/readme-fast.e2d2eaad0b4362e25d05.png",
-    "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.ee51856dd542b9673655.png",
-    "static/media/robyn-graham-resume.pdf": "/react-portfolio/static/media/robyn-graham-resume.5115154e28de32bf05e6.pdf",
-    "static/media/ecommerce-pexels-luis-gomes-546819.jpg": "/react-portfolio/static/media/ecommerce-pexels-luis-gomes-546819.b0293c526e7f034b6a8b.jpg",
-    "static/media/url-regex.png": "/react-portfolio/static/media/url-regex.d10e143e6f18e848ddc2.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.82c371e6.css.map": "/react-portfolio/static/css/main.82c371e6.css.map",
-    "main.0728ebb5.js.map": "/react-portfolio/static/js/main.0728ebb5.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/my-portfolio-with-react/static/css/main.fcf9cc1b.css",
+    "main.js": "/my-portfolio-with-react/static/js/main.30713f22.js",
+    "static/js/787.a2cb61a6.chunk.js": "/my-portfolio-with-react/static/js/787.a2cb61a6.chunk.js",
+    "static/media/holiday-screenshot.png": "/my-portfolio-with-react/static/media/holiday-screenshot.ddb8dcb215a9d89534a4.png",
+    "static/media/ticket-desk.png": "/my-portfolio-with-react/static/media/ticket-desk.d7af507551952f13fcbb.png",
+    "static/media/emc-pic.png": "/my-portfolio-with-react/static/media/emc-pic.782aebad7704d6f4f41f.png",
+    "static/media/jelly-fish-pexels-nidhi-shah-3616252.jpg": "/my-portfolio-with-react/static/media/jelly-fish-pexels-nidhi-shah-3616252.62d891d1c04fa69b775e.jpg",
+    "static/media/robyn-profile.jpg": "/my-portfolio-with-react/static/media/robyn-profile.6fa73ede71844745a84c.jpg",
+    "static/media/readme-fast.png": "/my-portfolio-with-react/static/media/readme-fast.e2d2eaad0b4362e25d05.png",
+    "static/media/linkedin.png": "/my-portfolio-with-react/static/media/linkedin.ee51856dd542b9673655.png",
+    "static/media/robyn-graham-resume.pdf": "/my-portfolio-with-react/static/media/robyn-graham-resume.5115154e28de32bf05e6.pdf",
+    "static/media/ecommerce-pexels-luis-gomes-546819.jpg": "/my-portfolio-with-react/static/media/ecommerce-pexels-luis-gomes-546819.b0293c526e7f034b6a8b.jpg",
+    "static/media/url-regex.png": "/my-portfolio-with-react/static/media/url-regex.d10e143e6f18e848ddc2.png",
+    "index.html": "/my-portfolio-with-react/index.html",
+    "main.fcf9cc1b.css.map": "/my-portfolio-with-react/static/css/main.fcf9cc1b.css.map",
+    "main.30713f22.js.map": "/my-portfolio-with-react/static/js/main.30713f22.js.map",
+    "787.a2cb61a6.chunk.js.map": "/my-portfolio-with-react/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82c371e6.css",
-    "static/js/main.0728ebb5.js"
+    "static/css/main.fcf9cc1b.css",
+    "static/js/main.30713f22.js"
   ]
 }
