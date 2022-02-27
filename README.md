@@ -1,11 +1,11 @@
 # Portfolio
 
 ## Description
-This is my coding portfolio. It will have placeholder images and descriptions for now until I have more examples of my coding work. 
+This is my coding portfolio, it is built with React. It includes examples of my recent work, about me and a contact form.
 
 ## Links
 deployed at 
-https://github.com/robyng/my-portfolio-with-react
+https://robyng.github.io/react-portfolio
 
 code source at
 https://github.com/robyng/my-portfolio-with-react
