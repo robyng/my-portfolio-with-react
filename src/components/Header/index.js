@@ -1,9 +1,11 @@
 import React from 'react';
+import logo from '../../assets/images/logo.png'
 
 function Header(props) {
     return(
         <header className="d-flex justify-content-between">
-           <h1>Robyn's Portfolio</h1>
+          <a href='/' >
+<h1><img src={logo} className="logo" height="50px" alt=''/>Robyn's Portfolio</h1></a>  
            {props.children}
         </header>
     )

@@ -41,11 +41,13 @@ function App() {
           setCurrentPage={setCurrentPage}
         ></Nav>
       </Header>
+      <div className='jelly'>
       <div className='hello'>
 
           {displayPage()}
           {/* <Practice></Practice> */}
 
+      </div>
       </div>
           <Footer></Footer>
 
