@@ -5,11 +5,11 @@ This is my coding portfolio, it is built with React. It includes examples of my 
 
 ## Links
 deployed at 
-https://robyng.github.io/react-portfolio
+https://robyng.github.io/my-portfolio-with-react
 
 code source at
 https://github.com/robyng/my-portfolio-with-react
 
 
 ## Screenshot
-![App Screenshot](./src/assets/images/portfolio-snapshot.png)
+![App Screenshot](./src/assets/images/jelly-shot.png)
