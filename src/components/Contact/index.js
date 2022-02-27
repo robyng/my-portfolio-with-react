@@ -40,7 +40,7 @@ function Contact() {
     }
 
     return (
-        <section class="container form-div col-6">
+        <section class="container form-div col-lg-6 col-md-10">
             <h2>Contact me</h2>
             <form id="contact-form" onSubmit={handleSubmit}>
                 <div className="form-group">

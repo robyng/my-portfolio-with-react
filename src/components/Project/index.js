@@ -5,7 +5,7 @@ function Project(props) {
     const { project } = props
     return (
     
-<div className="card col-5">
+<div className="card col-lg-5 col-md-10">
   <img className="card-img-top" src={project.image} alt="Card cap" />
   <div className="card-body">
     <h5 className="card-title">{project.title}</h5>

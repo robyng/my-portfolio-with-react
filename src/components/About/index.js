@@ -3,7 +3,7 @@ import robyn from '../../assets/images/robyn-profile.jpg'
 
 function About() {
     return(
-<section id="about" className="about container col-6">
+<section id="about" className="about container col-lg-7 col-md-10">
 
 <div className="profile">
 
