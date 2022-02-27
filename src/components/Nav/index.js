@@ -33,18 +33,3 @@ function Nav(props) {
 }
 
 export default Nav;
-
-
-
-/* <div>
-<h1>Robyn Graham Portfolio</h1>
-
-<nav>
-   
- <a href="#about navActive">About Me</a>
-<a href="#portfolio">Portfolio</a>
- <a href="#contact">Contact</a>
- <a href="#resume">Resume</a>
-
-</nav>
-</div> */

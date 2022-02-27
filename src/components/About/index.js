@@ -3,7 +3,7 @@ import robyn from '../../assets/images/robyn-profile.jpg'
 
 function About() {
     return(
-<section id="about" className="about">
+<section id="about" className="about container col-6">
 
 <div className="profile">
 
@@ -13,7 +13,7 @@ function About() {
     <div className="about-disc">
         <h3>About Me</h3>
         <p>Hi! I'm Robyn Graham. My background is in journalism and digital media. With over 5 years experience of building websites for small businesses on WordPress, I wanted to branch out. </p>
-        <p>I am currently learning JavaScript, see my coding projects below.</p>
+        <p>I am currently learning JavaScript, see my coding portfolio.</p>
     </div>
 
 </div>

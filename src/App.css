@@ -12,6 +12,7 @@ nav a {
   text-decoration: none;
 }
 
+
 /* About Section */
 
 .profile {
@@ -26,8 +27,6 @@ nav a {
 }
 
 .about {
-  width: 60%;
-  margin: 0 auto;
   padding: 20px;
 }
 
@@ -197,12 +196,13 @@ p {
   }
 }
 
+/* use z index so content does't scroll over header*/
 header {
   background-color: aliceblue;
   align-items: center;
   width: 100%;
-
-
+  position: fixed;
+  z-index: 1; 
 }
 
 
@@ -268,4 +268,8 @@ header a:hover {
 .form-div {
   background-color: aliceblue;
   padding: 25px;
+}
+
+section {
+  margin-top: 120px;
 }
