@@ -34,6 +34,9 @@ function App() {
   }
   return (
     <div>
+
+
+
       <Header>
         <Nav
           pages={pages}
@@ -42,12 +45,12 @@ function App() {
         ></Nav>
       </Header>
       <div className='jelly'>
-      <div className='hello'>
+      {/* <div className='hello'> */}
 
           {displayPage()}
           {/* <Practice></Practice> */}
 
-      </div>
+      {/* </div> */}
       </div>
           <Footer></Footer>
 
