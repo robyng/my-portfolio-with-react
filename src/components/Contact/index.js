@@ -43,7 +43,7 @@ function Contact() {
         <section class="container form-div col-lg-6 col-md-10">
         
             <h2>Contact me</h2>
-            <a href='mailto:robyn@sitereworks.com'>robyn@sitereworks.com</a>
+            <a href='mailto:robyn@sitereworks.com' target='_blank' rel='noreferrer'>robyn@sitereworks.com</a>
             {/* <form id="contact-form" onSubmit={handleSubmit}>
                 <div className="form-group">
                     <label htmlFor="name">Name:</label> <br />
