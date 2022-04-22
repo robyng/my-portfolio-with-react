@@ -13,3 +13,10 @@ https://github.com/robyng/my-portfolio-with-react
 
 ## Screenshot
 ![App Screenshot](./src/assets/images/jelly-shot.png)
+
+## Technologies Used
+* React
+* Bootstrap CSS Framework
+* Node
+* JSX
+* Javascript, HTML, CSS
