@@ -31,6 +31,9 @@ On a personal level, I am motivated to create content with accessibility in mind
  	<li>Frameworks: Bootstrap, Bulma, Semantic UI</li>
  	<li>Editors: Photoshop, Illustrator</li>
 </ul>
+<br />
+<h4>Interests</h4>
+<p>My interests include photography, yoga, hiking, camping and swimming in nature.</p>
 
 
 
