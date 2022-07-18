@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio-with-react/static/css/main.89382756.css",
-    "main.js": "/my-portfolio-with-react/static/js/main.31af9371.js",
+    "main.css": "/my-portfolio-with-react/static/css/main.f25ef0b3.css",
+    "main.js": "/my-portfolio-with-react/static/js/main.c8a71629.js",
     "static/js/787.a2cb61a6.chunk.js": "/my-portfolio-with-react/static/js/787.a2cb61a6.chunk.js",
     "static/media/holiday-screenshot.png": "/my-portfolio-with-react/static/media/holiday-screenshot.ddb8dcb215a9d89534a4.png",
     "static/media/ticket-desk.png": "/my-portfolio-with-react/static/media/ticket-desk.d7af507551952f13fcbb.png",
@@ -13,13 +13,15 @@
     "static/media/Robyn-Graham-Resume-2022.pdf": "/my-portfolio-with-react/static/media/Robyn-Graham-Resume-2022.9ff3281a132069759306.pdf",
     "static/media/ecommerce-pexels-luis-gomes-546819.jpg": "/my-portfolio-with-react/static/media/ecommerce-pexels-luis-gomes-546819.b0293c526e7f034b6a8b.jpg",
     "static/media/url-regex.png": "/my-portfolio-with-react/static/media/url-regex.d10e143e6f18e848ddc2.png",
+    "static/media/envelope-solid-color.png": "/my-portfolio-with-react/static/media/envelope-solid-color.a72b8f61a08f6910d672.png",
+    "static/media/laptop-code-solid-color-sm.png": "/my-portfolio-with-react/static/media/laptop-code-solid-color-sm.b6d48096d0de377c6c5b.png",
     "index.html": "/my-portfolio-with-react/index.html",
-    "main.89382756.css.map": "/my-portfolio-with-react/static/css/main.89382756.css.map",
-    "main.31af9371.js.map": "/my-portfolio-with-react/static/js/main.31af9371.js.map",
+    "main.f25ef0b3.css.map": "/my-portfolio-with-react/static/css/main.f25ef0b3.css.map",
+    "main.c8a71629.js.map": "/my-portfolio-with-react/static/js/main.c8a71629.js.map",
     "787.a2cb61a6.chunk.js.map": "/my-portfolio-with-react/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89382756.css",
-    "static/js/main.31af9371.js"
+    "static/css/main.f25ef0b3.css",
+    "static/js/main.c8a71629.js"
   ]
 }
