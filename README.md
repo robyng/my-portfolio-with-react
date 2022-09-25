@@ -1,13 +1,13 @@
 # Portfolio
 
 ## Description
-This is my coding portfolio, it is built with React. It includes examples of my recent work, about me and a contact form.
+This is my coding portfolio, it is built with React. It includes examples of my recent work, about me, and my resume.
 
 ## Links
-deployed at 
+Deployed at 
 https://robyng.github.io/my-portfolio-with-react
 
-code source at
+Code source at
 https://github.com/robyng/my-portfolio-with-react
 
 
