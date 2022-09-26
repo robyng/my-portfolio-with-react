@@ -12,6 +12,10 @@ nav a {
   text-decoration: none;
 }
 
+a {
+  display: inline-block;
+
+}
 
 /* About Section */
 
@@ -24,6 +28,12 @@ nav a {
 .div-resume {
   background-color: aliceblue;
   padding: 25px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 
 .about {
@@ -33,6 +43,7 @@ nav a {
 .about h3 {
   padding-bottom: 10px;
 }
+
 .about img {
   border-radius: 50%;
   width: 300px;
@@ -57,7 +68,7 @@ p {
 
 /* My Work Section */
 
-.work-box  {
+.work-box {
   width: 75%;
   margin: 0 auto;
 }
@@ -66,13 +77,14 @@ p {
   text-decoration: none;
   color: black;
 }
+
 .work-box h3 {
   padding: 20px;
 }
 
-.work-box img  {
+.work-box img {
   width: 100%;
-  height:480px;
+  height: 480px;
   object-fit: cover;
   object-position: center;
 }
@@ -127,7 +139,7 @@ header {
   align-items: center;
   width: 100%;
   position: fixed;
-  z-index: 1; 
+  z-index: 1;
 }
 
 
@@ -145,7 +157,7 @@ header {
 }
 
 .content-wrap {
-  padding-bottom: 2.5rem;  
+  padding-bottom: 2.5rem;
 }
 
 footer {
@@ -211,8 +223,8 @@ section {
 .circle {
   border-radius: 50%;
   padding: 30px;
- width: 100%;
- height: 100%;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
 }
 
@@ -220,40 +232,40 @@ section {
 
 @media screen and (max-width: 992px) {
   header {
-      display: block;
+    display: block;
   }
-  
+
   header a {
-      display: block;
-      float: none;
-      text-align: center;
-      padding: 10px;
+    display: block;
+    float: none;
+    text-align: center;
+    padding: 10px;
   }
 
   nav {
-      text-align: center;
+    text-align: center;
 
   }
 
   .about {
-      width: 100%;
+    width: 100%;
   }
 
   .about img {
-      height: auto;
-      display: flex;
-      justify-self: center;
+    height: auto;
+    display: flex;
+    justify-self: center;
 
   }
 
   .profile {
-      display: block;
+    display: block;
   }
 
   .profile img {
-      height: auto;
-      margin: 0 auto 0 auto;
-      
+    height: auto;
+    margin: 0 auto 0 auto;
+
   }
 
   .box {
@@ -266,33 +278,33 @@ section {
 
 @media screen and (max-width: 688px) {
   header a {
-      padding: 5px;
+    padding: 5px;
   }
 
   .about {
-      width: 100%;
-      margin: 0 auto;
+    width: 100%;
+    margin: 0 auto;
   }
 
   .work-box {
-      width: 90%;
+    width: 90%;
   }
 
   .project {
-      width: 100%;
-      margin: 10px 0;
+    width: 100%;
+    margin: 10px 0;
   }
 
   .sub-projects {
-      display: block;
+    display: block;
   }
 
   .sub-projects .project {
-      width: 100%;
+    width: 100%;
   }
 
   .contact {
-      width: 90%;
+    width: 90%;
   }
 
   .profile {
@@ -305,7 +317,7 @@ section {
 }
 
 /*unique breakpoint fixes*/
-@media screen and (max-width: 424px){
+@media screen and (max-width: 424px) {
   section {
     margin-top: 288px;
   }
@@ -316,7 +328,7 @@ section {
 
 }
 
-@media screen and (max-width: 320px ) {
+@media screen and (max-width: 320px) {
   section {
     margin-top: 288px;
   }
