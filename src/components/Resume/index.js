@@ -4,7 +4,7 @@ import resume from '../../assets/images/Resume-9-24-2022-Robyn-Graham.pdf'
 function Resume() {
     return(
         <section>
-          <div className='div-resume col-lg-6 container'>
+          <div className='div-resume col-lg-6 col-md-10 container'>
           <h2>My Resume</h2>
           <div className='download'>
           <a href={resume} target="_blank" download rel="noreferrer"> <button className='btn btn-success  float-left'>Download Now</button></a>
@@ -18,7 +18,8 @@ LinkedIn: <a href="https://www.linkedin.com/in/robyn-graham-b067aa97/" target='_
 Github Repo:             <a href="https://github.com/robyng" target='_blank' rel='noreferrer'>Robyng</a><br />
 <br />
 <h3>Summary</h3> <br />
-Professional Website Consultant with over 7 years experience of website development with a focus on affordable, yet effective, digital presence for small businesses and non profits. Recently completed Full Stack Coding Certificate from UC Berkeley, deepening knowledge in MongoDB, Express.js, React.js, Node.js and agile methodologies. Experience as a leader for team projects, setting goals and keeping to timelines with check-ins. Background in Journalism and a degree in Broadcast Communications & Digital Media from San Francisco State University. Currently building React projects with TypeScript and Styled Components with alumni.<br />
+<p>
+Professional Website Consultant with over 7 years experience of website development with a focus on affordable, yet effective, digital presence for small businesses and non profits. Recently completed Full Stack Coding Certificate from UC Berkeley, deepening knowledge in MongoDB, Express.js, React.js, Node.js and agile methodologies. Experience as a leader for team projects, setting goals and keeping to timelines with check-ins. Background in Journalism and a degree in Broadcast Communications & Digital Media from San Francisco State University. Currently building React projects with TypeScript and Styled Components with alumni.</p><br />
 <br />
 <h3>Technical Skills</h3><br />
 Git, Linux, File Transfer Protocol clients (FTP), Node.js, MySQL,  JavaScript ES6, HTML, CSS3, JSX, TypeScript, Bulma, Bootstrap, Semantic UI, Material UI, Styled Components, Photoshop, Adobe Illustrator, Wordpress, Drupal, DNS record pointing, cPanel management, photo optimizing, website transfers, Google Analytics, Search Engine Optimization (SEO) best practices and debugging code, MERN stack (MongoDB, Express.js, React.js and Node.js), Bitnami on Amazon Web Services (AWS) Lightsail, PHP to customize Wordpress themes and plugins.<br />
@@ -44,7 +45,7 @@ Making use of Youtube API and a world holiday API to generate content to learn a
 <li>Custom JavaScript to fetch APIs on button clicks</li>
 </ul>
 <a href="https://www.sitereworks.com/url-regex-explained-with-examples/" target="_blank" rel="noreferrer">URL Regex Explained With Examples</a> <br />
-On gist: <a href="https://gist.github.com/robyng/e4ff8614395719e0a3547be58e5a9c43">https://gist.github.com/robyng/e4ff8614395719e0a3547be58e5a9c43</a> <br />
+On gist: <a href="https://gist.github.com/robyng/e4ff8614395719e0a3547be58e5a9c43">On Gist Repo</a> <br />
 Teaching and writing sample.<br />
 Published on Gist this is a good sample of how I write and explain complex problems.<br />
 Use of photos to explain complex Regular Expression<br />
