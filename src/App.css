@@ -1,3 +1,13 @@
+/*fixes white space on small screens */
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
 nav {
   overflow: hidden;
   padding: 10px;
@@ -52,7 +62,7 @@ a {
 }
 
 p {
-  display: inline-block;
+  /* display: inline-block; */
   margin-block-start: 0px;
   margin-block-end: 0px;
   margin-inline-start: 0px;
@@ -155,6 +165,8 @@ header {
   background-attachment: fixed;
   padding: 20px;
 }
+
+
 
 .content-wrap {
   padding-bottom: 2.5rem;
