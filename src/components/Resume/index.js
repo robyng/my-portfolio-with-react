@@ -7,7 +7,7 @@ function Resume() {
           <div className='div-resume col-lg-6 col-md-10 container'>
           <h2>My Resume</h2>
           <div className='download'>
-          <a href={resume} target="_blank" download rel="noreferrer"> <button className='btn btn-success  float-left'>Download Now</button></a>
+          <a href={resume} target="_blank" rel="noreferrer"> <button className='btn btn-success  float-left'>Download Now</button></a>
 
           </div>
           <br />
