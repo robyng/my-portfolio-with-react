@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio-with-react/static/css/main.03b36fa8.css",
-    "main.js": "/my-portfolio-with-react/static/js/main.046c8f86.js",
+    "main.js": "/my-portfolio-with-react/static/js/main.334a4081.js",
     "static/js/787.a2cb61a6.chunk.js": "/my-portfolio-with-react/static/js/787.a2cb61a6.chunk.js",
     "static/media/holiday-screenshot.png": "/my-portfolio-with-react/static/media/holiday-screenshot.ddb8dcb215a9d89534a4.png",
     "static/media/ticket-desk.png": "/my-portfolio-with-react/static/media/ticket-desk.d7af507551952f13fcbb.png",
@@ -17,11 +17,11 @@
     "static/media/laptop-code-solid-color-sm.png": "/my-portfolio-with-react/static/media/laptop-code-solid-color-sm.b6d48096d0de377c6c5b.png",
     "index.html": "/my-portfolio-with-react/index.html",
     "main.03b36fa8.css.map": "/my-portfolio-with-react/static/css/main.03b36fa8.css.map",
-    "main.046c8f86.js.map": "/my-portfolio-with-react/static/js/main.046c8f86.js.map",
+    "main.334a4081.js.map": "/my-portfolio-with-react/static/js/main.334a4081.js.map",
     "787.a2cb61a6.chunk.js.map": "/my-portfolio-with-react/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03b36fa8.css",
-    "static/js/main.046c8f86.js"
+    "static/js/main.334a4081.js"
   ]
 }
